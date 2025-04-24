@@ -1,0 +1,4 @@
+Hallo pak, salam kenal nama saya Rizki Maulana dari Bekasi
+Resolusi saya:
+- membuat website menggunakan framework javascript
+- Bekerja di start-up
